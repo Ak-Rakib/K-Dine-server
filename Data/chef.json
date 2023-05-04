@@ -1,0 +1,50 @@
+[
+  {
+    "id": "c001",
+    "name": "Jin Park",
+    "photo": "https://example.com/chef-jin-park.jpg",
+    "experience": "10 years",
+    "numRecipes": 50,
+    "likes": 2500
+  },
+  {
+    "id": "c002",
+    "name": "Hyeon Kim",
+    "photo": "https://example.com/chef-hyeon-kim.jpg",
+    "experience": "8 years",
+    "numRecipes": 40,
+    "likes": 1900
+  },
+  {
+    "id": "c003",
+    "name": "Min Lee",
+    "photo": "https://example.com/chef-min-lee.jpg",
+    "experience": "6 years",
+    "numRecipes": 30,
+    "likes": 1500
+  },
+  {
+    "id": "c004",
+    "name": "Seo Yeon",
+    "photo": "https://example.com/chef-seo-yeon.jpg",
+    "experience": "5 years",
+    "numRecipes": 25,
+    "likes": 1200
+  },
+  {
+    "id": "c005",
+    "name": "Ji Ahn",
+    "photo": "https://example.com/chef-ji-ahn.jpg",
+    "experience": "3 years",
+    "numRecipes": 15,
+    "likes": 900
+  },
+  {
+    "id": "c006",
+    "name": "Yoo Sun",
+    "photo": "https://example.com/chef-yoo-sun.jpg",
+    "experience": "2 years",
+    "numRecipes": 10,
+    "likes": 500
+  }
+]
