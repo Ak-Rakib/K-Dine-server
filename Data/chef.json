@@ -2,7 +2,7 @@
   {
     "id": "c001",
     "name": "Jin Park",
-    "photo": "https://example.com/chef-jin-park.jpg",
+    "photo": "https://images.pexels.com/photos/4252146/pexels-photo-4252146.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "experience": "10 years",
     "numRecipes": 50,
     "likes": 2500
@@ -10,7 +10,7 @@
   {
     "id": "c002",
     "name": "Hyeon Kim",
-    "photo": "https://example.com/chef-hyeon-kim.jpg",
+    "photo": "https://images.pexels.com/photos/3772534/pexels-photo-3772534.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "experience": "8 years",
     "numRecipes": 40,
     "likes": 1900
@@ -18,7 +18,7 @@
   {
     "id": "c003",
     "name": "Min Lee",
-    "photo": "https://example.com/chef-min-lee.jpg",
+    "photo": "https://images.pexels.com/photos/6249032/pexels-photo-6249032.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "experience": "6 years",
     "numRecipes": 30,
     "likes": 1500
@@ -26,7 +26,7 @@
   {
     "id": "c004",
     "name": "Seo Yeon",
-    "photo": "https://example.com/chef-seo-yeon.jpg",
+    "photo": "https://images.pexels.com/photos/3769999/pexels-photo-3769999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "experience": "5 years",
     "numRecipes": 25,
     "likes": 1200
@@ -34,7 +34,7 @@
   {
     "id": "c005",
     "name": "Ji Ahn",
-    "photo": "https://example.com/chef-ji-ahn.jpg",
+    "photo": "https://images.pexels.com/photos/6605182/pexels-photo-6605182.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "experience": "3 years",
     "numRecipes": 15,
     "likes": 900
@@ -42,7 +42,7 @@
   {
     "id": "c006",
     "name": "Yoo Sun",
-    "photo": "https://example.com/chef-yoo-sun.jpg",
+    "photo": "https://images.pexels.com/photos/2544830/pexels-photo-2544830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "experience": "2 years",
     "numRecipes": 10,
     "likes": 500

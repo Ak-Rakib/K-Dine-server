@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consequat diam sit amet diam faucibus, sed fermentum sapien suscipit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis lobortis sapien vitae arcu commodo dapibus.",
+      "photo": "https://example.com/photos/john-doe.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "text": "Proin finibus aliquet neque ut bibendum. Sed ac leo nec purus finibus malesuada eu et velit. Aenean feugiat, lorem id lacinia vestibulum, ante turpis eleifend lectus, eu sagittis nisl purus non eros.",
+      "photo": "https://example.com/photos/jane-smith.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "text": "Vestibulum tempor ipsum auctor, gravida justo non, commodo orci. Sed rhoncus, odio vel efficitur iaculis, risus augue faucibus lorem, in euismod nibh nibh nec justo. Nullam et lectus sit amet odio fringilla venenatis vel vel orci.",
+      "photo": "https://example.com/photos/bob-johnson.jpg"
+    }
+  ]
+  
