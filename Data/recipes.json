@@ -1,0 +1,20 @@
+[
+  {
+    "id": "01",
+    "name": "Bibimbap (Mixed Rice Bowl)",
+    "photo": "https://images.pexels.com/photos/1775043/pexels-photo-1775043.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "description": "Food is a complex topic with cultural, social, and economic dimensions. It can evoke strong emotions and memories, and has the power to bring people together or drive them apart. The nutritional quality of food is important for physical health, while the enjoyment of food is crucial for mental wellbeing.."
+  },
+  {
+    "id": "02",
+    "name": "Kimchi Jjigae (Kimchi Stew)",
+    "photo": "https://images.pexels.com/photos/11209147/pexels-photo-11209147.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "description": "Food is a complex topic with cultural, social, and economic dimensions. It can evoke strong emotions and memories, and has the power to bring people together or drive them apart. The nutritional quality of food is important for physical health, while the enjoyment of food is crucial for mental wellbeing.."
+  },
+  {
+    "id": "03",
+    "name": "Bulgogi (Grilled Marinated Beef)",
+    "photo": "https://images.pexels.com/photos/1079020/pexels-photo-1079020.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "description": "Food is a complex topic with cultural, social, and economic dimensions. It can evoke strong emotions and memories, and has the power to bring people together or drive them apart. The nutritional quality of food is important for physical health, while the enjoyment of food is crucial for mental wellbeing.."
+  }
+]
